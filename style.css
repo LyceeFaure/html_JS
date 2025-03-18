@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: skyblue;
+    font-size: 40px;
+}
+p {
+        font-family: Arial;margin-left: 20px;
+margin-right: 100px; color: grey
+}
+li {
+        font-family: Ubuntu;
+        color: darkblue
+        
+}
+a {
+        color: mediumseagreen
+        
+}
+h2{
+  color : grey;padding-left: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 10px;
+}
+h3{
+  color : rgb(205, 92, 92)
+}
+strong {
+  color: darkcyan
+}
+body {
+    width: 800px;  /* largeur de 800 pixels */
+    margin: auto;  /* marges automatiques pour centrer horizontalement */
+    background-color: black;  /* couleur du fond */  
+}
